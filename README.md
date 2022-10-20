@@ -13,8 +13,3 @@
 
 ![image](https://user-images.githubusercontent.com/49752757/197041973-e6b76e47-f30b-4293-82cd-764f8b276e09.png)
 ![image](https://user-images.githubusercontent.com/49752757/197041608-8e10cb85-1014-4c90-968f-0005d3cc61ed.png) ![image](https://user-images.githubusercontent.com/49752757/197041814-2a539f5c-056d-46c0-8787-262182fedc1c.png)
-
- 
-(a) Inline seismic sections
-  
-(b) Predicted inline porosity sections   			(b) Inline uncertainty profile
