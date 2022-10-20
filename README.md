@@ -10,3 +10,4 @@ Munezero Ntibahanana, Song Jianguo, Moïse Luemba, Keto Tondozi, Gloire Imani
 •  Statistically, uncertainty is evaluated; a result confidence profile is provided
 
 •  For a superior result, an innovative weight-averaging ensemble method is proposed
+![image](https://user-images.githubusercontent.com/49752757/197041608-8e10cb85-1014-4c90-968f-0005d3cc61ed.png)
