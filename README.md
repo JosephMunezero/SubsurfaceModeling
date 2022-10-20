@@ -1,5 +1,5 @@
 # SubsurfaceModeling
-Manuscript title - Inferring subsurface porosity from seismic trace data with uncertainty evaluation using ensemble deep learning
+Inferring subsurface porosity from seismic trace data with uncertainty evaluation using ensemble deep learning
 
 Munezero Ntibahanana, Song Jianguo, Moïse Luemba, Keto Tondozi, Gloire Imani
 
